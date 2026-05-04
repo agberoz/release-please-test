@@ -1,2 +1,2 @@
 test
-new feature
+new feature b
