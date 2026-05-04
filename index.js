@@ -4,3 +4,4 @@ console.log("Hello from release-please-test v1.0.0");
 // docs update
 function greet(name) { return "Hello, " + name; }
 function add(a, b) { return a + b; }
+module.exports = { greet, add };
