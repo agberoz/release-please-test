@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/agberoz/release-please-test/compare/v1.0.0...v1.1.0) (2026-05-04)
+
+
+### Features
+
+* feature-b ([ed52d49](https://github.com/agberoz/release-please-test/commit/ed52d49e1cb38960ca568eb0ad0a63b0c7077a85))
+* feature-b ([8bfb87e](https://github.com/agberoz/release-please-test/commit/8bfb87e745568c1e9be200f97fb323ca267de599))
+
+
+### Bug Fixes
+
+* resolve production crash in payment flow ([85c196d](https://github.com/agberoz/release-please-test/commit/85c196d9c094769d5c302d09d59bb9cac99dc2a6))
+* resolve production crash in payment flow ([1d1274a](https://github.com/agberoz/release-please-test/commit/1d1274a695a6a85335b6b6973206daf75e6a45b4))
+
 ## 1.0.0 (2026-05-04)
 
 
